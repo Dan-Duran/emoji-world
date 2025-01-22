@@ -13,6 +13,7 @@
   - [💪 Follow me](#-follow-me)
   - [📖 Table of Contents](#-table-of-contents)
   - [🌟 Features](#-features)
+  - [📺 Video Demo](#-video-demo)
   - [🚀 Live Demo](#-live-demo)
   - [📁 Repository Structure](#-repository-structure)
     - [🗂️ Directory and File Breakdown](#️-directory-and-file-breakdown)
@@ -35,6 +36,14 @@
 - **Optimized Performance:** Fast loading times with minified CSS and JavaScript files.
 - **Social Integration:** Easily connect with our community through GitHub, YouTube, and Discord.
 - **Accessible Interface:** Designed with accessibility in mind, ensuring usability for all users, including those relying on assistive technologies.
+
+## 📺 Video Demo
+
+Check out the demo of our project in action:
+
+[![Video Demo](https://img.youtube.com/vi/Vym-0AFfxBI/0.jpg)](https://youtu.be/Vym-0AFfxBI)
+
+Alternatively, you can watch it directly on [YouTube](https://youtu.be/Vym-0AFfxBI).
 
 ## 🚀 Live Demo
 
