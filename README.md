@@ -2,9 +2,15 @@
 
 **Emoji World** is a comprehensive and user-friendly platform that allows you to search, browse, and effortlessly copy your favorite emojis. Whether you're looking to express emotions, represent objects, or showcase symbols, Emoji World has got you covered with an extensive collection organized into intuitive categories. Enhance your messaging, social media posts, and documents with ease!
 
+## Follow me ❤️
+- **👉 Checkout some more awesome tools at [GetCyber](https://getcyber.me/tools)**
+- **👉 Subscribe to my YouTube Channel [GetCyber - YouTube](https://youtube.com/getCyber)**
+- **👉 Discord Server [GetCyber - Discord](https://discord.gg/YUf3VpDeNH)**
+
 ## 📖 Table of Contents
 
 - [Emoji World ❤️](#emoji-world-️)
+  - [Follow me ❤️](#follow-me-️)
   - [📖 Table of Contents](#-table-of-contents)
   - [🌟 Features](#-features)
   - [🚀 Live Demo](#-live-demo)
@@ -15,7 +21,6 @@
   - [🔧 Development](#-development)
   - [🎨 Customization](#-customization)
   - [📄 License](#-license)
-  - [👤 Author](#-author)
   - [🤝 Contributing](#-contributing)
     - [📝 Guidelines](#-guidelines)
   - [📞 Contact](#-contact)
@@ -33,7 +38,7 @@
 
 ## 🚀 Live Demo
 
-Experience **Emoji World** in action! [Visit Emoji World](https://emoji-world.me)
+Experience **Emoji World** in action! [Visit Emoji World](https://emoji-world.getcyber.me)
 
 ## 📁 Repository Structure
 
@@ -191,12 +196,6 @@ Customize **Emoji World** to better fit your branding or personal preferences:
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute it as per the license terms.
-
-## 👤 Author
-
-**Dan Duran**  
-[GetCyber](https://getcyber.me)  
-[GitHub](https://github.com/Dan-Duran) | [YouTube](https://youtube.com/@GetCyber) | [Discord](https://discord.gg/YUf3VpDeNH)
 
 ## 🤝 Contributing
 
