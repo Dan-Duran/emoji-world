@@ -43,8 +43,6 @@ Check out the demo of our project in action:
 
 [![Video Demo](https://img.youtube.com/vi/Vym-0AFfxBI/0.jpg)](https://youtu.be/Vym-0AFfxBI)
 
-Alternatively, you can watch it directly on [YouTube](https://youtu.be/Vym-0AFfxBI).
-
 ## 🚀 Live Demo
 
 Experience **Emoji World** in action! [Visit Emoji World](https://emoji-world.getcyber.me)
