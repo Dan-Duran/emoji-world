@@ -2,7 +2,7 @@
 
 **Emoji World** is a comprehensive and user-friendly platform that allows you to search, browse, and effortlessly copy your favorite emojis. Whether you're looking to express emotions, represent objects, or showcase symbols, Emoji World has got you covered with an extensive collection organized into intuitive categories. Enhance your messaging, social media posts, and documents with ease!
 
-## Follow me ❤️
+## 💪 Follow me
 - **👉 Checkout some more awesome tools at [GetCyber](https://getcyber.me/tools)**
 - **👉 Subscribe to my YouTube Channel [GetCyber - YouTube](https://youtube.com/getCyber)**
 - **👉 Discord Server [GetCyber - Discord](https://discord.gg/YUf3VpDeNH)**
@@ -10,7 +10,7 @@
 ## 📖 Table of Contents
 
 - [Emoji World ❤️](#emoji-world-️)
-  - [Follow me ❤️](#follow-me-️)
+  - [💪 Follow me](#-follow-me)
   - [📖 Table of Contents](#-table-of-contents)
   - [🌟 Features](#-features)
   - [🚀 Live Demo](#-live-demo)
