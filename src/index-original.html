@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Emoji World - A cool emoji search and copy interface">
+        <meta name="keywords" content="emoji, emoticons, smileys, copy emoji">
+        <meta name="author" content="Dan Duran - GetCyber">
+     
+        <title>Emoji World ❤️</title>
+     
+        <!-- Open Graph -->
+        <meta property="og:title" content="Emoji World">
+        <meta property="og:description" content="Search, browse and copy emojis easily">
+        <meta property="og:image" content="/assets/og-image.png">
+        <meta property="og:url" content="https://emoji-world.me">
+        <meta property="og:type" content="website">
+     
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Emoji World">
+        <meta name="twitter:description" content="Search, browse and copy emojis easily">
+        <meta name="twitter:image" content="/assets/twitter-image.png">
+     
+        <!-- Favicons -->
+        <link rel="icon" type="image/png" href="favicon-96x96.png" sizes="96x96" />
+        <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+        <link rel="shortcut icon" href="favicon.ico" />
+        <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
+        <link rel="manifest" href="site.webmanifest" />
+    <link rel="stylesheet" href="assets/css.min.css">
+    <script src="assets/lodash.min.js"></script>
+</head>
+<body>
+    <div id="home" class="container">
+        <h1><a href="index.html"> ❤️ Emoji World</a></h1>
+        <div class="header">
+            <input type="text" class="search" placeholder="Search emojis...">
+            <button id="getcyber" class="getcyber-button">
+                🌐 getcyber 
+                <svg
+                  class="cf-icon-svg"
+                  fill="currentColor"
+                  width="24px"
+                  height="24px"
+                  viewBox="-2.5 0 19 19"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.65 1.65 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.654 1.654 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554zM8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"/>
+                </svg>
+              </button>              
+            <button id="github">🐱 GitHub
+                <svg
+                  class="cf-icon-svg"
+                  fill="currentColor"
+                  width="24px"
+                  height="24px"
+                  viewBox="-2.5 0 19 19"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.65 1.65 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.654 1.654 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554zM8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"/>
+                </svg>
+            </button>
+            <button id="youtube-subscribe">📺 YouTube
+                <svg
+                  class="cf-icon-svg"
+                  fill="currentColor"
+                  width="24px"
+                  height="24px"
+                  viewBox="-2.5 0 19 19"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.65 1.65 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.654 1.654 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554zM8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"/>
+                </svg>
+            </button>
+            <button id="discord-join">💬 Discord
+                <svg
+                  class="cf-icon-svg"
+                  fill="currentColor"
+                  width="24px"
+                  height="24px"
+                  viewBox="-2.5 0 19 19"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.65 1.65 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.654 1.654 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554zM8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"/>
+                </svg>
+            </button>
+            <button id="theme-toggle">🌓</button>
+         </div>
+        <div class="categories-nav">
+            <a href="#home" class="category-link">🏚️ Home</a>
+            <a href="#popular" class="category-link">❤️ Popular</a>
+            <a href="#smileys" class="category-link">😀 Smileys & Emotion</a>
+            <a href="#people" class="category-link">👋 People & Body</a>
+            <a href="#animals" class="category-link">🐵 Animals & Nature</a>
+            <a href="#food" class="category-link">🍎 Food & Drink</a>
+            <a href="#travel" class="category-link">✈️ Travel & Places</a>
+            <a href="#activities" class="category-link">🎮 Activities</a>
+            <a href="#objects" class="category-link">💡 Objects</a>
+            <a href="#symbols" class="category-link">❤️ Symbols</a>
+            <a href="#flags" class="category-link">🏁 Flags</a>
+        </div>
+        <div id="emoji-container"></div>
+    </div>
+    <footer class="footer">
+        <div class="container">
+            <p> </p>
+            <p><a href="https://gtcyber.me" target="_blank" class="footer-link">© <span id="date"></span> Dan Duran @ GetCyber</a>. All rights reserved. Emoji designs are copyrighted by their respective owners.</p>
+         </div>
+     </footer>
+    <div class="feedback">Copied! 📋</div>
+    <script src="assets/js.min.js"></script>
+</body>
+</html>
