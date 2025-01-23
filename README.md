@@ -41,7 +41,7 @@
 
 Check out the demo of our project in action:
 
-[![Video Demo](https://img.youtube.com/vi/Vym-0AFfxBI/0.jpg)](https://youtu.be/Vym-0AFfxBI)
+[![Video Demo](https://img.youtube.com/vi/q8wK-9QKYpI/0.jpg)](https://youtu.be/q8wK-9QKYpI)
 
 ## 🚀 Live Demo
 
