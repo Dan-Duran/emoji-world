@@ -21,7 +21,7 @@ document.getElementById('getcyber').addEventListener('click', () => {
 });
 
 document.getElementById('github').addEventListener('click', () => {
-    window.open('https://github.com/Dan-Duran', '_blank');
+    window.open('https://github.com/Dan-Duran/emoji-world', '_blank');
 });
 
 document.getElementById('youtube-subscribe').addEventListener('click', () => {
