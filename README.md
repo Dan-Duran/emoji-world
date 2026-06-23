@@ -43,9 +43,9 @@ Check out the demo of our project in action:
 
 [![Video Demo](https://img.youtube.com/vi/q8wK-9QKYpI/0.jpg)](https://youtu.be/q8wK-9QKYpI)
 
-## 🚀 Live Demo
+## 🚀 Video Demo
 
-Experience **Emoji World** in action! [Visit Emoji World](https://emoji-world.getcyber.me)
+https://github.com/user-attachments/assets/2608199b-25ef-4653-a9e9-335a3c5c0035
 
 ## 📁 Repository Structure
 
